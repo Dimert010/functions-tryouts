@@ -1,0 +1,5 @@
+def greetings(helloworld):
+    for g in range(helloworld):
+        print('helloworld')
+
+greetings(7)
